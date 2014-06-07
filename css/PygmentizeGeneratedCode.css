@@ -1,0 +1,63 @@
+﻿div.code {
+    font:             13px Courier,"Courier New",monospace;
+}
+
+
+.c {
+    color:            #9A1900;
+    font-style:       italic;
+}
+
+
+.s {
+    color:            #FF0000;
+}
+
+
+.k {
+    color:            #000000;
+    font-weight:      bold;
+}
+
+
+.kn {
+    color:            #0000FF;
+    font-weight:      bold;
+}
+
+
+.nn {
+    color:            #FF2FE0;
+    font-weight:      bold;
+}
+
+
+.si {
+    color:            #FF0000;
+}
+
+
+.mi {
+    color:            #03BFB9;
+    font-weight:      bold;
+}
+
+
+.nb {
+    color:            #49B64C;
+}
+
+
+.ow {
+    color:            #FF8000;
+}
+
+
+.n {
+    color:            #36046F;
+}
+
+
+.nf {
+    color:            #CB1DFF;
+}
