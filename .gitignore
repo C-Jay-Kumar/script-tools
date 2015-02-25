@@ -1,1 +1,23 @@
+# git empty directory convention
+!.gitkeep
+
+# Node Package Manager files
+npm-debug.log
+
+# AngularJS directories
+node_modules/
+bower_components/
+
+# assume directories with the following names can be ignored
+logs/*
+tmp
+
+# MacOS X folder config file
+.DS_Store
+
+# IDE config files: IntelliJ and Eclipse
+.idea
+.directory
+
+# emacs swap files
 *~
