@@ -1,5 +1,6 @@
 # git empty directory convention
 !.gitkeep
+.gitignore
 
 # Node Package Manager files
 npm-debug.log
