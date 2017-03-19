@@ -1,5 +1,11 @@
 [user]
+        name = C. Jay Kumar
+        email = jay.c.kumar@gmail.com
 [core]
-	editor = vim
+        editor = vim
 [alias]
-	hist = log --pretty=format:'%h %ad | %s%d [%an]' --graph --date=short
+        hi = log --pretty=format:'%h %ad | %s%d [%an]' --graph --date=short
+        co = checkout
+        br = branch
+        ci = commit
+        st = status
