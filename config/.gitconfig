@@ -10,3 +10,4 @@
         ci = commit
         st = status
         di = diff
+        me = merge
