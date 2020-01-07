@@ -11,3 +11,5 @@
         st = status
         di = diff
         me = merge
+[color]
+        ui = true
